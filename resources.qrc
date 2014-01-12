@@ -1,0 +1,35 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>content/TextInputPage.qml</file>
+        <file>content/ProjectListPage.qml</file>
+        <file>content/ProjectPage.qml</file>
+        <file>content/StagePage.qml</file>
+        <file>content/Titlebar.qml</file>
+        <file>content/WarningDialog.qml</file>
+        <file>content/ProjectItem.qml</file>
+        <file>content/StageItem.qml</file>
+        <file>content/QueueItem.qml</file>
+        <file>content/SubqueueItem.qml</file>
+        <file>content/VideoItem.qml</file>
+        <file>content/ScrollContainer.qml</file>
+        <file>content/StageItem2.qml</file>
+        <file>content/QueueItem2.qml</file>
+        <file>images/button_default.png</file>
+        <file>images/button_pressed.png</file>
+        <file>images/navigation_next_item.png</file>
+        <file>images/navigation_previous_item.png</file>
+        <file>images/textinput.png</file>
+        <file>images/toolbar.png</file>
+        <file>images/edit_add.png</file>
+        <file>images/edit_remove.png</file>
+        <file>images/delete.png</file>
+        <file>images/save.png</file>
+        <file>images/ok.png</file>
+        <file>images/stop.png</file>
+        <file>content/XButton.qml</file>
+        <file>content/XToolbar.qml</file>
+        <file>content/QueuePage.qml</file>
+        <file>content/SubqueueItem2.qml</file>
+    </qresource>
+</RCC>
